@@ -1,6 +1,6 @@
 {
   "name": "TheTerminal",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "summary": "手机端命令辅助调试工具.提供发包后查看调试应用。",
   "description": "发包后供测试人员发现bug时调试应用。如重定向日志，弹框展示信息，本地通知，路由页面等。",
   "homepage": "https://github.com/DacianSky/TheTerminal",
@@ -13,10 +13,10 @@
   },
   "source": {
     "git": "https://github.com/DacianSky/TheTerminal.git",
-    "tag": "0.8.0"
+    "tag": "0.9.0"
   },
   "platforms": {
-    "ios": "8.2"
+    "ios": "8.0"
   },
   "source_files": "TheTerminal/Classes/**/*"
 }
